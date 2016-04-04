@@ -1,4 +1,4 @@
-Yanhuan Li - Average Degree of Twitter Hashtag Graph
+Average Degree of Twitter Hashtag Graph -- Implemented by Yanhuan Li
 ===========================================================
 
 # Table of Contents
